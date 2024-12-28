@@ -1,0 +1,21 @@
+Explanation
+ETL Process:
+
+Extract: Load the dataset using pandas.
+Transform: Clean the data by handling missing values and parsing dates. Create new features like month and year.
+Load: Save the transformed data to a CSV file.
+Sales Trend Analysis:
+
+Month-wise Analysis: Aggregate and visualize sales data by month.
+Year-wise Analysis: Aggregate and visualize sales data by year.
+Yearly Month-wise Analysis: Aggregate and visualize sales data by month for each year to identify seasonal patterns.
+Key Metrics Identification:
+
+Calculate total sales, average order value, profit margins, and identify top-selling items, regions, and sales channels.
+Relationships Analysis:
+
+Perform correlation analysis between different attributes and visualize the correlation matrix.
+Machine Learning Models:
+
+Regression Models: Implement Linear Regression and Random Forest Regression to predict sales.
+Clustering Models: Implement K-Means Clustering to segment data based on sales performance and visualize the clusters.
